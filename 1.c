@@ -2,7 +2,6 @@
 
 int main()
 {
-    printf("test\n");
-    printf("hello world\n");
+    printf("lsy-B\n");
     return 0;
 }
